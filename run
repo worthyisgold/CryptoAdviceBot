@@ -1,0 +1,3 @@
+#!/bin/zsh
+c++ --std=c++11 *.cpp -o app
+./app
